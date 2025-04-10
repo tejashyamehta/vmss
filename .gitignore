@@ -40,3 +40,5 @@ next-env.d.ts
 .genkit/*
 node_modules/
 project.zip
+node_modules/
+project.zip
